@@ -241,3 +241,15 @@
     flex-direction: column;
     row-gap: 20px;
 }
+.mobile
+{
+    width: 575px;
+}
+.div-fl-mobil
+{
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    margin: auto;
+    justify-content: space-between;
+}
